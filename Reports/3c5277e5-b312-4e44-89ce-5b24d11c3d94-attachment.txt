@@ -1,0 +1,12 @@
+[32mINFO    [0m Test_Register:test_Register.py:17 select Gender
+[32mINFO    [0m Test_Register:test_Register.py:20 Enter first name
+[32mINFO    [0m Test_Register:test_Register.py:22 Enter last name
+[32mINFO    [0m Test_Register:test_Register.py:24 select DOB day
+[32mINFO    [0m Test_Register:test_Register.py:26 select DOB month
+[32mINFO    [0m Test_Register:test_Register.py:28 select DOB year
+[32mINFO    [0m Test_Register:test_Register.py:30 enter Email
+[32mINFO    [0m Test_Register:test_Register.py:33 Enter Company Name 
+[32mINFO    [0m Test_Register:test_Register.py:35 Enter Pasword 
+[32mINFO    [0m Test_Register:test_Register.py:37 Enter Password to Confirm 
+[32mINFO    [0m Test_Register:test_Register.py:40 Click on Register button
+[32mINFO    [0m Test_Register:test_Register.py:47 Taking SS if tCase Failed

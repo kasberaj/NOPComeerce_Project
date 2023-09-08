@@ -1,0 +1,137 @@
+1694149572060	geckodriver	INFO	Listening on 127.0.0.1:60325
+1694149575138	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60326" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Raj\\AppData\\Local\\Temp\\rust_mozprofile6x5kmz"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694149575618	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694149575807	Marionette	INFO	Listening on port 60382
+WebDriver BiDi listening on ws://127.0.0.1:60326
+Read port: 60382
+1694149576196	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:60326/devtools/browser/dc784869-89da-4965-a706-fa1c1e75c465
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://admin-demo.nopcommerce.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://admin-demo.nopcommerce.com."
+1694149589392	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:203:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:429:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:178:31
+send@https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js?v=LO1ZLwpRUE4YpyjPJfd6yZIfA9I:2:82714
+ajax@https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js?v=LO1ZLwpRUE4YpyjPJfd6yZIfA9I:2:78291
+@https://admin-demo.nopcommerce.com/js/ukoh1k9bahbdtmmn_wkbdq.scripts.js?v=RTom3tzFkMXP436SMzwIprzSjxo:95:4933
+k/t[r]@https://admin-demo.nopcommerce.com/js/ukoh1k9bahbdtmmn_wkbdq.scripts.js?v=RTom3tzFkMXP436SMzwIprzSjxo:95:977
+t@https://admin-demo.nopcommerce.com/js/ukoh1k9bahbdtmmn_wkbdq.scripts.js?v=RTom3tzFkMXP436SMzwIprzSjxo:103:849
+initOnce@https://admin-demo.nopcommerce.com/js/ukoh1k9bahbdtmmn_wkbdq.scripts.js?v=RTom3tzFkMXP436SMzwIprzSjxo:103:1251
+init@https://admin-demo.nopcommerce.com/js/ukoh1k9bahbdtmmn_wkbdq.scripts.js?v=RTom3tzFkMXP436SMzwIprzSjxo:104:637
+@https://admin-demo.nopcommerce.com/Admin/Customer/Create:1148:46
+e@https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js?v=LO1ZLwpRUE4YpyjPJfd6yZIfA9I:2:30038
+Deferred/then/l/</t<@https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js?v=LO1ZLwpRUE4YpyjPJfd6yZIfA9I:2:30340
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-2NJTDMQ3JH, line 153: Script terminated by timeout at:
+l@https://www.googletagmanager.com/gtag/js?id=G-2NJTDMQ3JH:153:17
+Bz@https://www.googletagmanager.com/gtag/js?id=G-2NJTDMQ3JH:453:134
+Cz/<@https://www.googletagmanager.com/gtag/js?id=G-2NJTDMQ3JH:453:111
+
+1694149834064	Marionette	INFO	Stopped listening on port 60382
+Dynamically enable window occlusion 1
+rn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694149734690	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694149734865	Marionette	INFO	Listening on port 61038
+WebDriver BiDi listening on ws://127.0.0.1:61010
+Read port: 61038
+1694149735221	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:61010/devtools/browser/f4e4deeb-24b8-404e-850a-b8d4601434f2
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://admin-demo.nopcommerce.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://admin-demo.nopcommerce.com."
+1694149745939	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:203:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:429:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:178:31
+send@https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js?v=LO1ZLwpRUE4YpyjPJfd6yZIfA9I:2:82714
+ajax@https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js?v=LO1ZLwpRUE4YpyjPJfd6yZIfA9I:2:78291
+@https://admin-demo.nopcommerce.com/js/qlvfucyxvmxlswx0bx1vxg.scripts.js?v=M1Ov74NfRaEDWnAXADkDp5tuu80:96:4933
+k/t[r]@https://admin-demo.nopcommerce.com/js/qlvfucyxvmxlswx0bx1vxg.scripts.js?v=M1Ov74NfRaEDWnAXADkDp5tuu80:96:977
+t@https://admin-demo.nopcommerce.com/js/qlvfucyxvmxlswx0bx1vxg.scripts.js?v=M1Ov74NfRaEDWnAXADkDp5tuu80:104:849
+initOnce@https://admin-demo.nopcommerce.com/js/qlvfucyxvmxlswx0bx1vxg.scripts.js?v=M1Ov74NfRaEDWnAXADkDp5tuu80:104:1251
+init@https://admin-demo.nopcommerce.com/js/qlvfucyxvmxlswx0bx1vxg.scripts.js?v=M1Ov74NfRaEDWnAXADkDp5tuu80:105:637
+@https://admin-demo.nopcommerce.com/admin/:2549:46
+e@https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js?v=LO1ZLwpRUE4YpyjPJfd6yZIfA9I:2:30038
+Deferred/then/l/</t<@https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js?v=LO1ZLwpRUE4YpyjPJfd6yZIfA9I:2:30340
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-2NJTDMQ3JH, line 153: Script terminated by timeout at:
+l@https://www.googletagmanager.com/gtag/js?id=G-2NJTDMQ3JH:153:17
+Bz@https://www.googletagmanager.com/gtag/js?id=G-2NJTDMQ3JH:454:134
+Cz/<@https://www.googletagmanager.com/gtag/js?id=G-2NJTDMQ3JH:454:111
+
+1694149833761	Marionette	INFO	Stopped listening on port 61038
+Dynamically enable window occlusion 1
+rn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694149786865	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694149787047	Marionette	INFO	Listening on port 61354
+WebDriver BiDi listening on ws://127.0.0.1:61333
+Read port: 61354
+1694149787376	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:61333/devtools/browser/f1f14c0a-24de-4dae-9e4c-439c1ebcfeb7
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://admin-demo.nopcommerce.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://admin-demo.nopcommerce.com."
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-2NJTDMQ3JH, line 153: Script terminated by timeout at:
+l@https://www.googletagmanager.com/gtag/js?id=G-2NJTDMQ3JH:153:17
+Bz@https://www.googletagmanager.com/gtag/js?id=G-2NJTDMQ3JH:454:134
+Cz/<@https://www.googletagmanager.com/gtag/js?id=G-2NJTDMQ3JH:454:111
+
+1694149832730	Marionette	INFO	Stopped listening on port 61354
+Dynamically enable window occlusion 1
+1694150073741	geckodriver	INFO	Listening on 127.0.0.1:62146
+1694150076781	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62147" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Raj\\AppData\\Local\\Temp\\rust_mozprofileFPmBQC"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694150077211	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694150077383	Marionette	INFO	Listening on port 62158
+WebDriver BiDi listening on ws://127.0.0.1:62147
+Read port: 62158
+1694150077734	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62147/devtools/browser/0acc073b-ad3b-4c24-8347-906a8b114cc8
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://admin-demo.nopcommerce.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://admin-demo.nopcommerce.com."
+1694150086392	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:203:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:429:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:178:31
+send@https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js?v=LO1ZLwpRUE4YpyjPJfd6yZIfA9I:2:82714
+ajax@https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js?v=LO1ZLwpRUE4YpyjPJfd6yZIfA9I:2:78291
+@https://admin-demo.nopcommerce.com/js/qlvfucyxvmxlswx0bx1vxg.scripts.js?v=M1Ov74NfRaEDWnAXADkDp5tuu80:96:4933
+k/t[r]@https://admin-demo.nopcommerce.com/js/qlvfucyxvmxlswx0bx1vxg.scripts.js?v=M1Ov74NfRaEDWnAXADkDp5tuu80:96:977
+t@https://admin-demo.nopcommerce.com/js/qlvfucyxvmxlswx0bx1vxg.scripts.js?v=M1Ov74NfRaEDWnAXADkDp5tuu80:104:849
+initOnce@https://admin-demo.nopcommerce.com/js/qlvfucyxvmxlswx0bx1vxg.scripts.js?v=M1Ov74NfRaEDWnAXADkDp5tuu80:104:1251
+init@https://admin-demo.nopcommerce.com/js/qlvfucyxvmxlswx0bx1vxg.scripts.js?v=M1Ov74NfRaEDWnAXADkDp5tuu80:105:637
+@https://admin-demo.nopcommerce.com/admin/:2549:46
+e@https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js?v=LO1ZLwpRUE4YpyjPJfd6yZIfA9I:2:30038
+Deferred/then/l/</t<@https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js?v=LO1ZLwpRUE4YpyjPJfd6yZIfA9I:2:30340
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-2NJTDMQ3JH, line 159: Script terminated by timeout at:
+pb@https://www.googletagmanager.com/gtag/js?id=G-2NJTDMQ3JH:159:656
+Vd/<@https://www.googletagmanager.com/gtag/js?id=G-2NJTDMQ3JH:192:365
+hd.prototype.invoke@https://www.googletagmanager.com/gtag/js?id=G-2NJTDMQ3JH:173:1181
+VF/<@https://www.googletagmanager.com/gtag/js?id=G-2NJTDMQ3JH:577:486
+Cp@https://www.googletagmanager.com/gtag/js?id=G-2NJTDMQ3JH:370:231
+aa.jm@https://www.googletagmanager.com/gtag/js?id=G-2NJTDMQ3JH:564:95
+aa.im/k/<@https://www.googletagmanager.com/gtag/js?id=G-2NJTDMQ3JH:549:494
+Pj@https://www.googletagmanager.com/gtag/js?id=G-2NJTDMQ3JH:289:235
+bk@https://www.googletagmanager.com/gtag/js?id=G-2NJTDMQ3JH:291:349
+k@https://www.googletagmanager.com/gtag/js?id=G-2NJTDMQ3JH:549:480
+c@https://www.googletagmanager.com/gtag/js?id=G-2NJTDMQ3JH:333:169
+wn@https://www.googletagmanager.com/gtag/js?id=G-2NJTDMQ3JH:334:269
+aa.im@https://www.googletagmanager.com/gtag/js?id=G-2NJTDMQ3JH:550:13
+c@https://www.googletagmanager.com/gtag/js?id=G-2NJTDMQ3JH:568:943
+ew@https://www.googletagmanager.com/gtag/js?id=G-2NJTDMQ3JH:411:298
+dw.prototype.flush@https://www.googletagmanager.com/gtag/js?id=G-2NJTDMQ3JH:414:266
+dw.prototype.push@https://www.googletagmanager.com/gtag/js?id=G-2NJTDMQ3JH:412:207
+Xv@https://www.googletagmanager.com/gtag/js?id=G-2NJTDMQ3JH:409:712
+pF/<@https://www.googletagmanager.com/gtag/js?id=G-2NJTDMQ3JH:569:153
+aa.yk/<@https://www.googletagmanager.com/gtag/js?id=G-2NJTDMQ3JH:520:126
+aa.yk/c/<@https://www.googletagmanager.com/gtag/js?id=G-2NJTDMQ3JH:519:420
+
+1694150095543	Marionette	INFO	Stopped listening on port 62158
+Dynamically enable window occlusion 1
